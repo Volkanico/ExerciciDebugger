@@ -25,8 +25,8 @@ public class Main {
         alumne2 = new Alumne();
 
         // definir els seus atributs
-        alumne1.setNom("A");
-        alumne2.setNom("B");
+        alumne1.setNom("Manolo");
+        alumne2.setNom("Tomasito");
         alumne1.setEdat(20);
         alumne2.setEdat(20);
 

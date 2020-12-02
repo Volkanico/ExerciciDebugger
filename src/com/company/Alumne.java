@@ -14,7 +14,6 @@ public class Alumne {
         this.notes = notes;
     }
 
-    public Alumne(){}
 
     public double mitjanaNotes() {
         int total = 0;
